@@ -34,7 +34,7 @@ void setup() {
 	size(640, 480, P2D);	
   //load images
   bg = loadImage("img/bg.jpg"); 
-  groundhog = loadImage("img/groundhogIdle.png");
+  groundhog = loadImage("img/groundhogldle.png");
   groundhogDown = loadImage("img/groundhogDown.png");
   groundhogLeft = loadImage("img/groundhogLeft.png");
   groundhogRight = loadImage("img/groundhogRight.png");
