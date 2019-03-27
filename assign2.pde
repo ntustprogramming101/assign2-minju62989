@@ -179,9 +179,9 @@ void draw() {
         life3X=150;
       }
       //sun
-      fill(255,255,0);
+      fill(253,184,19);
       strokeWeight(5);
-      stroke(253,184,19);
+      stroke(255,255,0);
       ellipse(590,50,120,120);
     break;
     // Game Lose
